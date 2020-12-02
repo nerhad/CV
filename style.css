@@ -1,0 +1,76 @@
+.liste ul li{
+	list-style-type: none;
+	line-height: 50px;
+	font-size: 1.5em;
+
+}
+.hauteur1{
+	min-height: 30vh;
+}
+mb-5{
+	background-color: grey;
+}
+
+.verticaldroite{
+	 border-right: 15px solid  #EFDBCB;
+}
+
+.verticalgauche{
+	border-left: 15px solid  #EFDBCB;
+}
+.bordurehaut{
+	border-top: 15px solid  #EFDBCB;
+}
+.bordurebas{
+	border-bottom: 15px solid  #EFDBCB;
+}
+/*#18A2B9*/
+
+.liste2 ul li{
+	line-height: 50px;
+	font-size: 1,5em;
+}
+.bg-blue{
+	background: #C1D9D0;
+}
+.bg-cyan{
+	background: #EFDBCB;
+}
+
+h1{
+
+	font-size: 3em;
+	color: #2E4583;
+}
+
+h2{
+	text-align: center;
+	font-size: 2.5em;
+	color: #2E4583;
+}
+
+p{
+	text-align: left;
+	font-size: 1.3em;
+}
+.text-left{
+
+	text-align: left;
+}
+.text-color{
+
+	color: #58FF33;
+}
+.text-center{
+
+	text-align: center;
+}
+
+.centre{
+	margin-left: 170px;
+}
+span{
+	font-size: 1.1em;
+	font-weight : bold;
+
+}
